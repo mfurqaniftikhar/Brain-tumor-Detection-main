@@ -116,19 +116,11 @@ Conv2D(64, d=3) ×2 → Conv2D(128, d=2) ×2 → Conv2D(256, d=1) ×2 → Dense(
 - NumPy, Pandas, Matplotlib, Seaborn
 - scikit-learn (classification report, confusion matrix)
 
-## Publication
-
-Presented at **IC3SE 2025** (International Conference on Communication, Computing, and Smart Systems Engineering).
-
-## Getting Started
 
 ```bash
-git clone https://github.com/sidd707/Brain-tumor-Detection.git
+git clone https://github.com/mfurqanifitkhar/Brain-tumor-Detection-main.git
 cd Brain-tumor-Detection
 ```
 
 Open `brain-tumor-mri-dataset.ipynb` in Jupyter or [Kaggle](https://www.kaggle.com/) to reproduce results.
 
-## License
-
-This project is for academic and research purposes.
